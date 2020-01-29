@@ -15,8 +15,8 @@ people are provided by the resident prior to their arrival. This application can
 
 # Team Members (Contributors)
 <ul>
-  <li><a href="https://github.com/uttejh/">Uttejh Reddy</a></li>
-  <li>Sumeesha Marakani</li>
+  <li><a href="https://github.com/siddharthasinghbisen">Siddhartha Singh</a></li>
+  <li>Uttejh Reddy</li>
   <li>Prithvi Raju</li>
 </ul>
 
